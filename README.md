@@ -1,5 +1,5 @@
 
-Hey. We’re **EmuTwist**. A one-person organization “based in North Korea” (lol).  
+Hey. We’re **EmuTwist**. 
 
 We do weird shit. Like:  
 
@@ -16,6 +16,3 @@ Basically, if it’s weird or fun, it belongs here.
 - Run the OSes or apps if you’re curious  
 - Fork, copy, or just laugh at our chaos
   
----
-
-> “Officially based in North Korea. Unofficially just messing around with code.”  
